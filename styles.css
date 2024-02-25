@@ -1,0 +1,18 @@
+.parent {
+  background-color: green;
+}
+
+.search {
+  background-color: red;
+  width: 60px;
+  height: 60px;
+  border-radius: 3px;
+  float: right;
+  text-align: center;
+  vertical-align: middle;
+  transition: all 500ms 0.1s ease;
+}
+.search:hover {
+  width: 200px;
+  height: 60px;
+}
